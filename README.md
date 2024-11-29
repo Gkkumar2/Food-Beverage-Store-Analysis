@@ -35,8 +35,7 @@ As the company expands into new states, determining the most profitable and cust
 ## 🚀 **Technology Stack**
 - **🧮 Excel**: For detailed data analysis and metric calculations.
 - **📊 Power BI**: For interactive data visualization and dashboards.
-- **🐍 Python**: To support data processing and advanced analytics.
+- **📊 Power Query**: To support data processing and advanced analytics.
 
 ---
 
-Feel free to contribute or explore this project further! 💡
