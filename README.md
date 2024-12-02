@@ -38,13 +38,13 @@ As the company expands into new states, determining the most profitable and cust
 ## 📜 **Insights & Recommendations**  
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/sales.png" alt="Paid Subscriptions" style="width: 48%;">
+    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/sales.png" alt="Paid Subscriptions" style="width: 98%;">
 </div>
 
 ### 🏙️ **5.5K Stores**  
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/store.png" alt="Paid Subscriptions" style="width: 48%;">
-    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/avg%205.5k.png" alt="Paid Subscriptions" style="width: 48%;">
+    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/store.png" alt="Store Performance" style="width: 48%; height: 300px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/avg%205.5k.png" alt="5.5K Performance" style="width: 48%; height: 300px; object-fit: cover;">
 </div>
 
 
