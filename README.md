@@ -19,6 +19,13 @@ As the company expands into new states, determining the most profitable and cust
 
 ---
 
+## 🚀 **Technology Stack**
+- **🧮 Excel**: For detailed data analysis and metric calculations.
+- **📊 Power BI**: For interactive data visualization and dashboards.
+- **📊 Power Query**: To support data processing and advanced analytics.
+  
+---
+
 ## 🎯 **Project Objectives**
 
 ### 1. **🔍 Analyze Historical Performance**  
@@ -92,14 +99,6 @@ As the company expands into new states, determining the most profitable and cust
 - **Primary Focus:** Prioritize Chicken, Pizza, and Coffee due to consistent demand.  
 - **Secondary Focus:** Offer Frozen Yogurt seasonally to appeal to travelers.  
 - **DoorDash:** Consider replacing or discontinuing DoorDash due to low return.
-
----
-
-## 🚀 **Technology Stack**
-- **🧮 Excel**: For detailed data analysis and metric calculations.
-- **📊 Power BI**: For interactive data visualization and dashboards.
-- **🐍 Python**: To support data processing and advanced analytics.
-
 ---
 ## 🌐 **Full Dashboard**  
 📊 **[View the Full Power BI Dashboard](https://app.powerbi.com/links/585ETb949U?ctid=b0abd1ed-4966-4274-9f19-59dd663e81f5&pbi_source=linkShare&bookmarkGuid=9c725a2e-a97c-46eb-a0a8-2bb50eee0d27)**  
