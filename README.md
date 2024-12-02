@@ -1,5 +1,5 @@
 # 🏬 **Store Expansion Analysis Project**  
-![Store Performance Overview](https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/dsh.png)  
+![Store Performance Overview](https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/full%20dash.png)  
 
 ---
 
