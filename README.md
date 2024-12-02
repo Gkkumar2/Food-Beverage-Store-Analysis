@@ -41,10 +41,12 @@ As the company expands into new states, determining the most profitable and cust
    - Deliver findings via a comprehensive **Power BI Dashboard** and **Excel Analysis**, ensuring data-driven decision-making.
 
 ---
-## **Data Types**
+### 📁 **Data set**
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/Black%20and%20White%20Minimalist%20Fitness%20Brand%20Comparison%20Chart%20Table%20Graph.jpg" alt="Paid Subscriptions" style="width: 98%;">
 </div>
+
+
 ---
 
 ## 📜 **Insights & Recommendations**  
