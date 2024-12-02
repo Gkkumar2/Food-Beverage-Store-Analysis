@@ -43,7 +43,7 @@ As the company expands into new states, determining the most profitable and cust
 
 ### 🏙️ **5.5K Stores**  
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/store.png" alt="Store Performance" style="width: 48%; height: 400px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/store.png" alt="Store Performance" style="width: 48%; height: 500px; object-fit: cover;">
     <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/avg%205.5k.png" alt="5.5K Performance" style="width: 48%; height: 500px; object-fit: cover;">
 </div>
 
@@ -62,8 +62,8 @@ As the company expands into new states, determining the most profitable and cust
 
 ### 🚚 **EDO Stores**  
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/store.png" alt="Paid Subscriptions" style="width: 48%;">
-    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/avg%20EDO.png" alt="Paid Subscriptions" style="width: 48%;">
+    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/store.png" alt="Paid Subscriptions" style="width: 48%; height: 500px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/avg%20EDO.png" alt="Paid Subscriptions" style="width: 48%; height: 500px; object-fit: cover;">
 </div>
 
 **Performance Insights:**  
@@ -80,8 +80,8 @@ As the company expands into new states, determining the most profitable and cust
 
 ### 🛣️ **Travel Centers**  
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/store.png" alt="Paid Subscriptions" style="width: 48%;">
-    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/travel.png" alt="Paid Subscriptions" style="width: 48%;">
+    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/store.png" alt="Paid Subscriptions" style="width: 48%; height: 500px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Food-Beverage-Store-Expand-Analysis/blob/main/screen%20shots/travel.png" alt="Paid Subscriptions" style="width: 48%; height: 500px; object-fit: cover;">
 </div>
 
 **Performance Insights:**  
