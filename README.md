@@ -12,7 +12,7 @@
 ---
 
 ## 📊 **Executive Summary**  
-<p align="justify>As the company expands into new states, determining the most profitable and customer-preferred food and beverage offerings is essential. By analyzing historical data, this project delivers:</p>
+<p align="justify> As the company expands into new states, determining the most profitable and customer-preferred food and beverage offerings is essential. By analyzing historical data, this project delivers:</p>
 - 📈 **Performance Trends** - Insights on how current offerings perform across different store types and locations.
 - 🔑 **Key Metrics** - Average sales per store per week (**PSPW**) to benchmark store performance.
 - 🛠️ **Actionable Recommendations** - Tailored suggestions for each store type and location to enhance customer satisfaction and revenue.
