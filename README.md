@@ -4,10 +4,12 @@
 ---
 
 ## 📄 **Overview**  
-<p align="justify">"This project analyzes store performance data to recommend food and beverage offerings for new store locations across different states. By evaluating key metrics such as **Inside Sales**, **Chicken Sales**,**Pizza Sales** , **Coffee Sales**, **Frozen Yogurt Sales**, **DoorDash Orders**, **Guest Count**, and **Store Type**, we aim to provide actionable insights for Senior Leadership. Store types include:</p>
-- 🛣️ **Travel Center** - Large stores along travel routes with both regular and truck fuel stations.<br>
-- 🚚 **EDO** - Mid-size stores with a mix of regular and extended diesel offerings.<br>
-- 🏙️ **5.5K** - Regular-sized stores located primarily in populated areas.<br>
+<p align="justify">
+  "This project analyzes store performance data to recommend food and beverage offerings for new store locations across different states. By evaluating key metrics such as **Inside Sales**, **Chicken Sales**,**Pizza Sales** , **Coffee Sales**, **Frozen Yogurt Sales**, **DoorDash Orders**, **Guest Count**, and **Store Type**, we aim to provide actionable insights for Senior Leadership. Store types include:
+</p>
+- 🛣️ **Travel Center** - Large stores along travel routes with both regular and truck fuel stations.
+- 🚚 **EDO** - Mid-size stores with a mix of regular and extended diesel offerings.
+- 🏙️ **5.5K** - Regular-sized stores located primarily in populated areas.
 
 ---
 
