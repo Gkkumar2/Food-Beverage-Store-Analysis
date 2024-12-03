@@ -13,12 +13,11 @@
 
 ## 📊 **Executive Summary**  
 <p align="justify"> As the company expands into new states, determining the most profitable and customer-preferred food and beverage offerings is essential. By analyzing historical data, this project delivers:</p>
-- 📈 **Performance Trends** - Insights on how current offerings perform across different store types and locations.
-- 🔑 **Key Metrics** - Average sales per store per week (**PSPW**) to benchmark store performance.
+- 📈 **Performance Trends** - Insights on how current offerings perform across different store types and locations.<br>
+- 🔑 **Key Metrics** - Average sales per store per week (**PSPW**) to benchmark store performance.<br>
 - 🛠️ **Actionable Recommendations** - Tailored suggestions for each store type and location to enhance customer satisfaction and revenue.
 
 ---
-
 ## 🚀 **Technology Stack**
 - **🧮 Excel** For detailed data analysis and metric calculations.
 - **📊 Power BI** For interactive data visualization and dashboards.
