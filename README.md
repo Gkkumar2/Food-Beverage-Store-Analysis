@@ -4,7 +4,7 @@
 ---
 
 ## 📄 **Overview**  
-<p align="justify>"This project analyzes store performance data to recommend food and beverage offerings for new store locations across different states. By evaluating key metrics such as **Inside Sales**, **Chicken Sales**, **Pizza Sales**, **Coffee Sales**, **Frozen Yogurt Sales**, **DoorDash Orders**, **Guest Count**, and **Store Type**, we aim to provide actionable insights for Senior Leadership. Store types include:</p>
+<p align="justify">"This project analyzes store performance data to recommend food and beverage offerings for new store locations across different states. By evaluating key metrics such as **Inside Sales**, **Chicken Sales**, **Pizza Sales** , **Coffee Sales**, **Frozen Yogurt Sales**, **DoorDash Orders**, **Guest Count**, and **Store Type**, we aim to provide actionable insights for Senior Leadership. Store types include:</p>
 - 🛣️ **Travel Center** - Large stores along travel routes with both regular and truck fuel stations.
 - 🚚 **EDO** - Mid-size stores with a mix of regular and extended diesel offerings.
 - 🏙️ **5.5K** - Regular-sized stores located primarily in populated areas.
@@ -12,7 +12,7 @@
 ---
 
 ## 📊 **Executive Summary**  
-<p align="justify> As the company expands into new states, determining the most profitable and customer-preferred food and beverage offerings is essential. By analyzing historical data, this project delivers:</p>
+<p align="justify"> As the company expands into new states, determining the most profitable and customer-preferred food and beverage offerings is essential. By analyzing historical data, this project delivers:</p>
 - 📈 **Performance Trends** - Insights on how current offerings perform across different store types and locations.
 - 🔑 **Key Metrics** - Average sales per store per week (**PSPW**) to benchmark store performance.
 - 🛠️ **Actionable Recommendations** - Tailored suggestions for each store type and location to enhance customer satisfaction and revenue.
