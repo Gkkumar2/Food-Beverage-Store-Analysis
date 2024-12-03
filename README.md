@@ -22,7 +22,7 @@ This project analyzes store performance data to recommend food and beverage offe
 ## 📊 **Executive Summary**  
 <p align="justify"> As the company expands into new states, determining the most profitable and customer-preferred food and beverage offerings is essential. By analyzing historical data, this project delivers:</p>
 - 📈 <strong>Performance Trends</strong> - Insights on how current offerings perform across different store types and locations.<br>
-- 🔑 <strong>Key Metrics</strong> - Average sales per store per week (**PSPW**) to benchmark store performance.<br>
+- 🔑 <strong>Key Metrics</strong> - Average sales per store per week (<strong>PSPW</strong>) to benchmark store performance.<br>
 - 🛠️ <strong>Actionable Recommendations</strong> - Tailored suggestions for each store type and location to enhance customer satisfaction and revenue.
 
 ---
