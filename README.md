@@ -11,6 +11,23 @@
 - 🚚 **EDO** - Mid-size stores with a mix of regular and extended diesel offerings.
 - 🏙️ **5.5K** - Regular-sized stores located primarily in populated areas.
 
+# Store Performance Analysis
+
+<p align="justify">
+This project analyzes store performance data to recommend food and beverage offerings for new store locations across different states. By evaluating key metrics such as <strong>Inside Sales</strong>, <strong>Chicken Sales</strong>, <strong>Pizza Sales</strong>, <strong>Coffee Sales</strong>, <strong>Frozen Yogurt Sales</strong>, <strong>DoorDash Orders</strong>, <strong>Guest Count</strong>, and <strong>Store Type</strong>, we aim to provide actionable insights for Senior Leadership. 
+</p>
+
+## Store Types
+
+- 🛣️ **Travel Center**  
+  Large stores along travel routes with both regular and truck fuel stations.
+
+- 🚚 **EDO**  
+  Mid-size stores with a mix of regular and extended diesel offerings.
+
+- 🏙️ **5.5K**  
+  Regular-sized stores located primarily in populated areas.
+
 ---
 
 ## 📊 **Executive Summary**  
