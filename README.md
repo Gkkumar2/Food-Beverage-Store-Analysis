@@ -9,7 +9,7 @@
 </p>
 - 🛣️ **Travel Center** - Large stores along travel routes with both regular and truck fuel stations.
 - 🚚 **EDO** - Mid-size stores with a mix of regular and extended diesel offerings.
-- 🏙️ **5.5K** - Regular-sized stores located primarily in populated areas.
+- 🏙️ **5.5K** - Regular-sized stores located primarily in populated areas..
 
 # Store Performance Analysis
 
