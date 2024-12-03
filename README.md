@@ -12,7 +12,7 @@
 ---
 
 ## 📊 **Executive Summary**  
-As the company expands into new states, determining the most profitable and customer-preferred food and beverage offerings is essential. By analyzing historical data, this project delivers:
+<p align="justify>As the company expands into new states, determining the most profitable and customer-preferred food and beverage offerings is essential. By analyzing historical data, this project delivers:</p>
 - 📈 **Performance Trends** - Insights on how current offerings perform across different store types and locations.
 - 🔑 **Key Metrics** - Average sales per store per week (**PSPW**) to benchmark store performance.
 - 🛠️ **Actionable Recommendations** - Tailored suggestions for each store type and location to enhance customer satisfaction and revenue.
@@ -68,9 +68,9 @@ As the company expands into new states, determining the most profitable and cust
 - 📦 DoorDash is underperforming at 3%.  
 
 **Recommendations**  
-- **Primary Focus** Increase the availability of Pizza and Coffee, as they dominate sales.  
-- **Secondary Focus** Promote Frozen Yogurt during warmer months to attract niche customers.  
-- **Low Priority** Reassess DoorDash investment or improve its promotion due to low adoption.
+- **Primary Focus** -  Increase the availability of Pizza and Coffee, as they dominate sales.  
+- **Secondary Focus** - Promote Frozen Yogurt during warmer months to attract niche customers.  
+- **Low Priority** - Reassess DoorDash investment or improve its promotion due to low adoption.
 
 ---
 
@@ -86,9 +86,9 @@ As the company expands into new states, determining the most profitable and cust
 - 📦 DoorDash has zero traction.  
 
 **Recommendations**  
-- **Primary Focus** Maintain Chicken, Pizza, and Coffee as core offerings.  
-- **Frozen Yogurt** Retain as an option but not a priority.  
-- **DoorDash** Consider discontinuing or redesigning the strategy for DoorDash.
+- **Primary Focus** - Maintain Chicken, Pizza, and Coffee as core offerings.  
+- **Frozen Yogurt** - Retain as an option but not a priority.  
+- **DoorDash** - Consider discontinuing or redesigning the strategy for DoorDash.
 
 ---
 
@@ -103,9 +103,9 @@ As the company expands into new states, determining the most profitable and cust
 - 🍦 Frozen Yogurt (10%) and 📦 DoorDash (2%) show low performance.  
 
 **Recommendations**  
-- **Primary Focus** Prioritize Chicken, Pizza, and Coffee due to consistent demand.  
-- **Secondary Focus** Offer Frozen Yogurt seasonally to appeal to travelers.  
-- **DoorDash** Consider replacing or discontinuing DoorDash due to low return.
+- **Primary Focus** - Prioritize Chicken, Pizza, and Coffee due to consistent demand.  
+- **Secondary Focus** - Offer Frozen Yogurt seasonally to appeal to travelers.  
+- **DoorDash** - Consider replacing or discontinuing DoorDash due to low return.
 ---
 ## 🌐 **Full Dashboard**  
 📊 **[View the Full Power BI Dashboard](https://app.powerbi.com/links/585ETb949U?ctid=b0abd1ed-4966-4274-9f19-59dd663e81f5&pbi_source=linkShare&bookmarkGuid=9c725a2e-a97c-46eb-a0a8-2bb50eee0d27)**  
